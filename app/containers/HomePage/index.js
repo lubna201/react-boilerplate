@@ -66,7 +66,7 @@ export function HomePage({
           content="A React.js Boilerplate application homepage"
         />
       </Helmet>
-      <div style={{ fontSize: '130%', backgroundColor: 'salmon' }}>
+      <div style={{ fontSize: '130%', backgroundColor: '#80daff' }}>
         <div>Hi I am Sazida</div>
         <CenteredSection>
           <H2>
